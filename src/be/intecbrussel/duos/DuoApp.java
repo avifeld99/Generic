@@ -15,5 +15,15 @@ public class DuoApp {
 
         DifferentDuo<Integer, String> numbers = new DifferentDuo<>(20, "twenty");
         System.out.println(numbers.getElement1() + " = " + numbers.getElement2());
+
+        /*
+        T – Type
+        E – Element
+        K – Key
+        N – Number
+        V – Value
+        */
+
+
     }
 }
